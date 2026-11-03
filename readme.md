@@ -1,7 +1,8 @@
 # ⚙️ MARK LVI (56)
 ### The Ultimate Cross-Platform Personal AI Assistant — by Guilherme
 
-> 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@Guilherme)**
+> 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/watch?v=gQ3BewdJEOs&t=1238s)**
+BUT Utilize The zip on this GITHUB
 
 A real-time voice AI that can hear, see, speak, and control your computer — on any OS. Supports Windows, macOS, and Linux. Built on the Gemini Live API for native audio streaming, delivering zero subscriptions and total digital autonomy.
 
